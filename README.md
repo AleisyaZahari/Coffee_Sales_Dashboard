@@ -2,7 +2,6 @@
 
 link access: https://1drv.ms/x/c/e873a7aac3c9dadb/EdvaycOqp3MggOiSRQAAAAABVTEmO-Fg2LSdhz_sA9D_-A?e=JcFanK
 
-Here’s a **detailed README** for your **Coffee Sales Dashboard** project, incorporating all the necessary details. I'll structure it with **sections, emojis, and formatting** for readability.  
 
 ---
 
